@@ -1,0 +1,9 @@
+
+trainingData/
+news_classifier/
+model_output/
+DataSet_Preperation/
+coco_dataset/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
